@@ -3,7 +3,7 @@
 # CREWAI
 
 ## Introduction
-[Provide a brief description of what the project does.]
+
 
 ## Table of Contents
 - [Installation](#installation)
