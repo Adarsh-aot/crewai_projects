@@ -1,8 +1,4 @@
-The `.env` file you provided contains API keys, which are sensitive pieces of information and should not be shared publicly in the README file. 
 
-However, I can still help you generate a README file template for the "crewai" project. To proceed, I will need additional information about the project as previously mentioned. Here’s a basic outline for the README based on common sections:
-
----
 
 # CREWAI
 
